@@ -16,6 +16,7 @@ public class Proyecto_ej6 {
      */
     public static void main(String[] args) {
         System.out.println("Estos son algunos de los cambios hechos en local");
+        System.out.println("Estoy realizando cambios en remoto");
     }
     
 }
